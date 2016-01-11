@@ -17,3 +17,16 @@ linux command
 2016-01-09
 ## Thing 
 Finish githug
+
+## Date
+2016-01-10
+## Thing 
+Sleeping and forget
+
+## Date
+2016-01-11
+## Thing 
+Monitoring and NTP Offset
+
+
+
